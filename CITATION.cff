@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  R Codes for Development of a Machine Learning-Based
+  Screening Model for the Risk of Depression Among the
+  Elderly in China
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tengku Muhammad
+    family-names: Hanis
+    email: tengkuhanismokhtar@unisza.edu.my
+    name-particle: Tengku Muhammad
+    affiliation: >-
+      Department of Community Medicine, Faculty of Medicine,
+      Universiti Sultan Zainal Abidin
+    orcid: 'https://orcid.org/0000-0003-1466-7765'
+repository-code: 'https://github.com/tengku-hanis/ml_depression'
+license: CC-BY-NC-4.0
